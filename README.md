@@ -1,4 +1,4 @@
-# Adilkhan Niyazov
+# Adilkhan Niiazov
 
 Flutter Developer with 3+ years in fintech and consumer mobile apps.
 
